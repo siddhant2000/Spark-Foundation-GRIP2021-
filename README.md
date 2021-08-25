@@ -18,9 +18,6 @@ Data can be found at : https://bit.ly/3kXTdox
 
 Youtube Link- https://lnkd.in/g4vjhsA
 
-Google Colab link: https://colab.research.google.com/drive/13MSN0JK3d0RTim-6-ikMLIyyZYnJqoVr
-
-
-
+Google Colab link: https://colab.research.google.com/drive/13MSN0JK3d0RTim-6-ikMLIyyZYnJqoVr?usp=sharing
 
 
