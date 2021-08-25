@@ -8,3 +8,19 @@
   youtube link: https://youtu.be/zX9_CCNRFz8
   
   Google Colab link: https://colab.research.google.com/drive/1Th-V-1Rkqf-q2FHw30160h9qgH-WLxab?usp=sharing
+  
+## Task 2: Prediction using Unsupervised Machine Learning
+   This task is to predict of the optimum number of clusters and represent it visually, from the given ‘Iris’ dataset. So for this task, I am using K Means Clustering (Unsupervised ML).
+
+Get The Code and Task Video Here:-
+
+Data can be found at : https://bit.ly/3kXTdox
+
+Youtube Link- https://lnkd.in/g4vjhsA
+
+Google Colab link: https://colab.research.google.com/drive/13MSN0JK3d0RTim-6-ikMLIyyZYnJqoVr
+
+
+
+
+
